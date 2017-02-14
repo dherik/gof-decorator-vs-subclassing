@@ -1,7 +1,5 @@
-package io.github.dherik.god.subclassing;
+package io.github.dherik.gof.subclassing;
 
-import io.github.dherik.gof.decorator.BorderedText;
-import io.github.dherik.gof.decorator.ScrolledText;
 import org.junit.Assert;
 import org.junit.Test;
 

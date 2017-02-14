@@ -1,4 +1,4 @@
-package io.github.dherik.god.subclassing;
+package io.github.dherik.gof.subclassing;
 
 /**
  * Created by dherik on 13/02/17.

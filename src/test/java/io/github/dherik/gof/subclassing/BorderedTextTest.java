@@ -1,4 +1,4 @@
-package io.github.dherik.god.subclassing;
+package io.github.dherik.gof.subclassing;
 
 import org.junit.Assert;
 import org.junit.Test;
